@@ -10,7 +10,7 @@ export default function TabOneScreen({
 }: RootTabScreenProps<"Home">) {
   return (
     <View style={styles.container}>
-      <Text style={styles.mainheader}>Plants</Text>
+      <Text style={styles.mainheader}>Home</Text>
       <View
         style={styles.separator}
         lightColor="#eee"
