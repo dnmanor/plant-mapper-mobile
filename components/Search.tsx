@@ -15,7 +15,7 @@ function Search() {
             setSearchTerm(e);
           }}
           value={searchTerm}
-          placeholder="Common or Scientific Names"
+          placeholder="Search Common or Scientific Names"
         />
       </View>
     </View>
